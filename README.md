@@ -1,6 +1,5 @@
 # India General Election Results 2024 - Power BI Dashboard
 
-![Power BI Banner](https://img.shields.io/badge/Built%20With-Power%20BI-yellow?style=for-the-badge)  
 📅 **Voting Dates:** April 19 – June 1, 2024  
 📊 **Result Declared:** June 4, 2024
 
