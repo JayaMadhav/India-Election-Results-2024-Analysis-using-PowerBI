@@ -41,8 +41,6 @@ The project includes **six interactive dashboards**:
 
 <br>
 
-> 🚨 *Note: Due to size limitations or GitHub restrictions, the `.pbix` Power BI file may need to be stored in a separate release or cloud link (e.g., Google Drive, OneDrive).*
-
 ## 🧮 Data Model
 
 Below is the data model used in the Power BI report. It defines the relationships between different tables including constituency results, party performance, and state-level mappings.
